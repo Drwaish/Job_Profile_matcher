@@ -13,6 +13,13 @@ Now install the requirements
 pip install -r requirements.tx
 ```
 
+### Create .env
+```bash
+GROQ_API_KEY=<API KEY>
+FIRE_CRAWL_API="<Fir Crawl API>"
+SYNAPSE_JOB_PAGE="YOU JOB POSTING URL"
+```
+
 ### If you want to run task 1
 ```bash
 cd Task1
